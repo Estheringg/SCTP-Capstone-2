@@ -39,3 +39,5 @@ The dataset provide 5 csv files
 
 Challenges: 
 While trying to link my tables to the general information table, I was encountering an error message in postgre that said "schools.school_id " does not exist. It took me a long time before I realise that it was because there was a space in the header and that i needed to upload the csv again without the space. 
+
+[Link to Linkedin](https://www.linkedin.com/in/esther-ng-22882772)
