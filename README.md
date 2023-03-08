@@ -2,7 +2,7 @@
 ## _A study of Singapore Schools and their enrichment programmes_
 
 ### Context 
-Persona: I work for a comapny that is trying to provide enrichment programmes to students to enhance their educational journey. 
+Persona: I work for a private education company that is trying to provide enrichment programmes to students to enhance their educational journey. 
 [Link to Dataset](https://www.kaggle.com/datasets/subhamjain/schools-information-directory-singapore)
 
 ![ERD](https://i.gyazo.com/00f941ff88a503e84e1a81afa34013db.png)
