@@ -35,7 +35,8 @@ The dataset provide 5 csv files
     - linked to the general school information table   
 - school distinctive programmes
     -  split into 2 tables to fufil 3NF
-    -  linked to the general school information table   
+    -  linked to the general school information table
+I converted these files into sql files through sqlite3
 
 Challenges: 
 While trying to link my tables to the general information table, I was encountering an error message in postgre that said "schools.school_id " does not exist. It took me a long time before I realise that it was because there was a space in the header and that i needed to upload the csv again without the space. 
